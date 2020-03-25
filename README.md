@@ -4,8 +4,8 @@
 * passwall固件分频道（其他架构设备的passwall固件）：[分频道](./sub.md)             
 * passwall固件教程：[教程](./tips.md)           
 * passwall固件源码：[源码](./code.md)          
-* [群管理员优选机场](./air.md)       
-![李沁](https://pic.downk.cc/item/5e6f62a0e83c3a1e3a8812e2.jpg)      
+* [群管理员优选机场](./air.md)         
+![李沁](https://pic.downk.cc/item/5e7afe57504f4bcb04c29d5a.jpg)                    
 
     
         
