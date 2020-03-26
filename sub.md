@@ -14,7 +14,9 @@
 【n1】：               
 [https://t.me/n1passwall](https://t.me/n1passwall)          
 【neo2】：      
-[https://t.me/neo2passwall](https://t.me/neo2passwall)           
+[https://t.me/neo2passwall](https://t.me/neo2passwall)     
+【树莓派4b】:              
+[https://t.me/joinchat/AAAAAEh2xIrp1qwnANBNDw](https://t.me/joinchat/AAAAAEh2xIrp1qwnANBNDw)               
 【树莓派3b】：        
 [https://t.me/RaspberryPi3Bpasswall](https://t.me/RaspberryPi3Bpasswall)              
 【k2p】：       
