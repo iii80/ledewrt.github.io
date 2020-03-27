@@ -1,4 +1,4 @@
-此页面最近一次更新时间：2020.03.26               
+此页面最近一次更新时间：2020.03.27               
 [返回到首页](https://passwallopenwrt.github.io/website/)            
 
 【passwall复杂度较高，高阶用法可以实现你能想到的很多需求，需要看教程和多摸索，没空学习教程或者水平不够搭配出错的请不要使用高阶用法，默认的设置已经能够满足99%人群了，使用默认设置或者不用都可以】       
@@ -9,7 +9,8 @@
 * “旁路由”模式下，无法访问国内网络，在防火墙自定义规则添加：           
 iptables -t nat -I POSTROUTING -j MASQUERADE                 
 * 默认未设置允许的设备不能使用代理、自由指定不同客户端使用不同线路（盒子看Netflix）：[教程](https://youtu.be/qkga9DN5H08)       
-* passwall的负载均衡：[教程](https://youtu.be/TRdOfTykgRw)                 
+* passwall的负载均衡：[教程](https://youtu.be/TRdOfTykgRw)              
+* adguardhome简单使用：[教程](https://youtu.be/wBxgi-pAh10)       
 * 开源项目，没有团队负责内测，每次提交完代码都是大家公测。你能正常用老版本就没必要追更新！
 * 不保留配置升级：[图文](./upgrade.md)                 
 * 请务必保持启用passwall的高级设置里的守护进程！      
