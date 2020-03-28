@@ -5,15 +5,14 @@ passwall有问题？请更新到最新版本再测试是否复现。
 github反馈issue问题时，请附带passwall日志，并确认你当前使用的passwall是最新版本，否则直接无视close。           
 任何玩DNS玩出事，设置不当导致的你认为不好用，觉得垃圾的，请不要使用！       
 
-【Lienol/openwrt源码目前特色】：
-* luci18.06和luci19.07都由Lienol魔改过，点击到执行速度极快，谁用谁知道                    
+* luci18.06和luci19.07都由Lienol魔改过，点击到执行完毕的速度极快，谁用谁知道                 
 
 ① [https://github.com/Lienol/openwrt/tree/dev-19.07](https://github.com/Lienol/openwrt/tree/dev-19.07)                     
-基于官方openwrt的fork，使用luci18，默认分支。        
+基于官方openwrt的fork，搭配使用luci18.06-Lienol魔改，默认分支。        
 支持官方openwrt支持的型号设备。            
 支持勾选主要由Lienol维护的passwall+一些其他开发者的伟大的开源luci-app。                
 ② [https://github.com/Lienol/openwrt/tree/dev-master](https://github.com/Lienol/openwrt/tree/dev-master)               
-基于官方openwrt的fork，使用luci19，时机成熟时再取代作为默认分支。               
+基于官方openwrt的fork，搭配使用luci19.07-Lienol魔改，时机成熟时再取代作为默认分支。               
 支持官方openwrt支持的型号设备。                  
 支持勾选主要由Lienol维护的passwall+一些其他开发者的伟大的开源luci-app。                  
 ③ [https://github.com/Lienol/openwrt/tree/dev-lean-lede](https://github.com/Lienol/openwrt/tree/dev-lean-lede)             
