@@ -1,4 +1,4 @@
-此页面最近一次更新时间：2020.03.24        
+此页面最近一次更新时间：2020.03.28        
 [返回到首页](https://passwallopenwrt.github.io/website/)        
 
 passwall有问题？请更新到最新版本再测试是否复现。           
