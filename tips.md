@@ -8,9 +8,7 @@
 * 有些主题兼容性不好，在使用个别的luci插件时会出不显示错显示等bug,不想遇到这些问题请使用默认的主题(bootstrap类主题)                    
 * “旁路由”模式下，无法访问国内网络，在防火墙自定义规则添加：           
 iptables -t nat -I POSTROUTING -j MASQUERADE                 
-* 默认未设置允许的设备不能使用代理、自由指定不同客户端使用不同线路（盒子看Netflix）：[教程](https://youtu.be/qkga9DN5H08)       
-* passwall的负载均衡：[教程](https://youtu.be/TRdOfTykgRw)              
-* adguardhome简单使用：[教程](https://youtu.be/wBxgi-pAh10)       
+* 默认未设置允许的设备不能使用代理、自由指定不同客户端使用不同线路（盒子看Netflix）：[教程](https://youtu.be/qkga9DN5H08)                     
 * 开源项目，没有团队负责内测，每次提交完代码都是大家公测。你能正常用老版本就没必要追更新！
 * 不保留配置升级：[图文](./upgrade.md)                 
 * 请务必保持启用passwall的高级设置里的守护进程！      
