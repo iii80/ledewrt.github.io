@@ -17,10 +17,7 @@ iptables -t nat -I POSTROUTING -j MASQUERADE
 * 始终无法连接到软路由网络、始终无网络：[可能解决办法](./winproxy.md)               
 * 测速：[注意事项](./speed.md)        
 * ipv6：[注意事项](./ipv6.md)                
-* 多线多拨：如果失败，尝试“使用旧的macvlan创建方式”勾选或不勾选            
-* WIFI信号觉得不好？：首先请关闭使用5G优选（智能选频），然后2.4G信号锁死在20MHz，5G信号锁死在你的手机等设备支持到的最高的即可（最近160MHz的也都开始普及了...），这样你离天线远时手动连2.4G信号，离得近时手动连5G信号                  
-* 基于Chromium内核的浏览器建议关闭QUIC：[教程](https://www.echoteen.com/turnoff-quic.html)               
-* 修改win10的tcp配置参数来提升打开youtube的速度：[教程](https://bincode.cc/ssr-win10-tcp-youtube-speed/)                    
+* 多线多拨：如果失败，尝试“使用旧的macvlan创建方式”勾选或不勾选                    
 * 如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发 治愈强迫症：[教程](https://youtu.be/c4HSZzTM7G0)             
 * 单线or双线，最简单的iptv内网融合教程，需要懂一点基础：[教程](https://github.com/luckyyyyy/blog/issues/44)         
 * 小提示：使用负载均衡同样可以实现故障切换的功能          
