@@ -3,7 +3,7 @@
 * passwall固件主频道（源码更新内容、x86_64架构设备的passwall固件）：[主频道](https://t.me/passwall)        
 * passwall固件分频道（其他架构设备的passwall固件）：[分频道](./sub.md)             
 * passwall固件教程：[教程](./tips.md)      
-* passwall固件使用周边工具[工具](https://passwallopenwrt.github.io/tool/)                
+* passwall固件使用周边工具：[工具](https://passwallopenwrt.github.io/tool/)                
 * passwall固件源码：[源码](./code.md)     
 * 科学上网周边教程：[教程](./others.md)            
 * [群管理员优选机场](./air.md)         
