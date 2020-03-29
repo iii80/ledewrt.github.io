@@ -15,7 +15,7 @@ iptables -t nat -I POSTROUTING -j MASQUERADE
 * 在passwall插件运行中状态下，如果修改LAN口的静态IP，可能会导致无法上网。重启passwall插件或者重启固件即可解决！          
 * 如果出现YouTube等一些网站的页面上的特定内容错误显示，比如广告区域加载失败，只有框框没有图片，大概率是你的系统（不是固件！）的负责域名快速解析的HOSTS文件在作妖，解决办法是删除HOSTS文件里的所有规则（# 号注释掉的内容可以不管，其他的都删掉）    
 * 始终无法连接到软路由网络、始终无网络：[可能解决办法](./winproxy.md)               
-* 测速：[注意事项](./speed.md)        
+* 防止代理BT下载、测速：[注意事项](./speed.md)        
 * ipv6：[注意事项](./ipv6.md)                
 * 多线多拨：如果失败，尝试“使用旧的macvlan创建方式”勾选或不勾选                    
 * 如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发 治愈强迫症：[教程](https://youtu.be/c4HSZzTM7G0)             
