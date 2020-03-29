@@ -6,7 +6,9 @@
 * passwall固件使用周边工具：[工具](https://passwallopenwrt.github.io/tool/)                
 * passwall固件源码：[源码](./code.md)     
 * 科学上网周边教程：[教程](./others.md)            
-* [群管理员优选机场](./air.md)         
+* [群管理员优选机场](./air.md)          
+<iframe src="//player.bilibili.com/player.html?aid=83513036&bvid=BV18J411J7Gi&cid=142871173&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>                  
+
 ![李沁](https://pic.downk.cc/item/5e7afe57504f4bcb04c29d5a.jpg)                    
 
     
