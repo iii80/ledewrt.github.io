@@ -44,8 +44,10 @@
 [https://t.me/joinchat/AAAAAFZPHLD5VZ98otK3Gw](https://t.me/joinchat/AAAAAFZPHLD5VZ98otK3Gw)                
 【小米全系列】：            
 [https://t.me/joinchat/AAAAAE7sUp2sKYGeubYdBQ](https://t.me/joinchat/AAAAAE7sUp2sKYGeubYdBQ)                  
-【极3】：         
+【极路由3】：         
 [https://t.me/joinchat/AAAAAFf3b1ADepI-pIATDQ](https://t.me/joinchat/AAAAAFf3b1ADepI-pIATDQ)      
+【极路由b70】：       
+[https://t.me/joinchat/AAAAAEqQstiOch9uDQuV5g](https://t.me/joinchat/AAAAAEqQstiOch9uDQuV5g)        
 【yk1】：        
 [https://t.me/joinchat/AAAAAFY2yhi7q04J7iu9dw](https://t.me/joinchat/AAAAAFY2yhi7q04J7iu9dw)              
 
