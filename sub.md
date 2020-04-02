@@ -27,7 +27,7 @@
 【k2】:        
 [https://t.me/joinchat/AAAAAE3h_YQ4Q5XbgdKy8g](https://t.me/joinchat/AAAAAE3h_YQ4Q5XbgdKy8g)     
 【k2t】：      
-https://t.me/joinchat/AAAAAEuFTwRSqbqesz3iAQ          
+[https://t.me/joinchat/AAAAAEuFTwRSqbqesz3iAQ](https://t.me/joinchat/AAAAAEuFTwRSqbqesz3iAQ)          
 【k2g】:            
 [https://t.me/joinchat/AAAAAFU4sJP0nsoDwbru4Q](https://t.me/joinchat/AAAAAFU4sJP0nsoDwbru4Q)               
 【竞斗云2】:           
@@ -39,7 +39,8 @@ https://t.me/joinchat/AAAAAEuFTwRSqbqesz3iAQ
 【acrh17】：                       
 [https://t.me/acrh17passwall](https://t.me/acrh17passwall)                        
 【wrt1200ac】：            
-[https://t.me/joinchat/AAAAAEYqrLfq3f0hzIemng](https://t.me/joinchat/AAAAAEYqrLfq3f0hzIemng)               
+[https://t.me/joinchat/AAAAAEYqrLfq3f0hzIemng](https://t.me/joinchat/AAAAAEYqrLfq3f0hzIemng)          
+
 【小米全系列】：            
 [https://t.me/joinchat/AAAAAE7sUp2sKYGeubYdBQ](https://t.me/joinchat/AAAAAE7sUp2sKYGeubYdBQ)                  
 【极3】：         
