@@ -40,7 +40,8 @@
 [https://t.me/acrh17passwall](https://t.me/acrh17passwall)                        
 【wrt1200ac】：            
 [https://t.me/joinchat/AAAAAEYqrLfq3f0hzIemng](https://t.me/joinchat/AAAAAEYqrLfq3f0hzIemng)          
-
+【wr1200js】:               
+[https://t.me/joinchat/AAAAAFZPHLD5VZ98otK3Gw](https://t.me/joinchat/AAAAAFZPHLD5VZ98otK3Gw)                
 【小米全系列】：            
 [https://t.me/joinchat/AAAAAE7sUp2sKYGeubYdBQ](https://t.me/joinchat/AAAAAE7sUp2sKYGeubYdBQ)                  
 【极3】：         
