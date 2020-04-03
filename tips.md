@@ -17,7 +17,8 @@ iptables -t nat -I POSTROUTING -j MASQUERADE
 * 始终无法连接到软路由网络、始终无网络：[可能解决办法](./winproxy.md)               
 * 防止代理BT下载、测速：[注意事项](./speed.md)        
 * ipv6：[注意事项](./ipv6.md)                
-* 多线多拨：如果失败，尝试“使用旧的macvlan创建方式”勾选或不勾选                    
+* 多线多拨：如果失败，尝试“使用旧的macvlan创建方式”勾选或不勾选          
+* ZeroTier 免费虚拟局域网教程：内网穿透 OpenWrt、群晖NAS：[教程](https://youtu.be/U3aRXg3ejks)
 * 如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发 治愈强迫症：[教程](https://youtu.be/c4HSZzTM7G0)             
 * 单线or双线，最简单的iptv内网融合教程，需要懂一点基础：[教程](https://github.com/luckyyyyy/blog/issues/44)         
 * 小提示：使用负载均衡同样可以实现故障切换的功能          
