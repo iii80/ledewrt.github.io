@@ -43,7 +43,9 @@
 【wr1200js】:               
 [https://t.me/joinchat/AAAAAFZPHLD5VZ98otK3Gw](https://t.me/joinchat/AAAAAFZPHLD5VZ98otK3Gw)                
 【小米全系列】：            
-[https://t.me/joinchat/AAAAAE7sUp2sKYGeubYdBQ](https://t.me/joinchat/AAAAAE7sUp2sKYGeubYdBQ)                  
+[https://t.me/joinchat/AAAAAE7sUp2sKYGeubYdBQ](https://t.me/joinchat/AAAAAE7sUp2sKYGeubYdBQ)     
+【小娱c5/c1】：             
+[https://t.me/joinchat/AAAAAEWHEMwgIqZoHDRUgw](https://t.me/joinchat/AAAAAEWHEMwgIqZoHDRUgw)                    
 【极路由3】：         
 [https://t.me/joinchat/AAAAAFf3b1ADepI-pIATDQ](https://t.me/joinchat/AAAAAFf3b1ADepI-pIATDQ)      
 【极路由b70】：       
