@@ -5,7 +5,7 @@
 * passwall固件教程：[教程](./tips.md)      
 * passwall固件使用周边工具：[工具](https://passwallopenwrt.github.io/tool/)                
 * passwall固件源码：[源码](./code.md)     
-* 科学上网周边教程：[教程](./others.md)            
+* 科学上网周边教程：[周边教程](./others.md)            
 * [合作机场](./air.md)         
 <iframe width="100%" height="500" src="//player.bilibili.com/player.html?aid=83513036&bvid=BV18J411J7Gi&cid=142871173&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>                                 
 
