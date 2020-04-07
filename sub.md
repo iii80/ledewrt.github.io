@@ -51,7 +51,9 @@
 【极路由b70】：       
 [https://t.me/joinchat/AAAAAEqQstiOch9uDQuV5g](https://t.me/joinchat/AAAAAEqQstiOch9uDQuV5g)      
 【极1s-5661】:           
-[https://t.me/joinchat/AAAAAEVjqdIeA3cZtyeZ3Q](https://t.me/joinchat/AAAAAEVjqdIeA3cZtyeZ3Q)          
+[https://t.me/joinchat/AAAAAEVjqdIeA3cZtyeZ3Q](https://t.me/joinchat/AAAAAEVjqdIeA3cZtyeZ3Q)        
+【极2-5761】：            
+[https://t.me/joinchat/AAAAAFFJ0F-HmTvWZvQwjA](https://t.me/joinchat/AAAAAFFJ0F-HmTvWZvQwjA)             
 【yk1】：        
 [https://t.me/joinchat/AAAAAFY2yhi7q04J7iu9dw](https://t.me/joinchat/AAAAAFY2yhi7q04J7iu9dw)              
 
