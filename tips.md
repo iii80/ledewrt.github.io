@@ -21,7 +21,8 @@ iptables -t nat -I POSTROUTING -j MASQUERADE
 * ZeroTier 免费虚拟局域网教程：内网穿透 OpenWrt、群晖NAS：[教程](https://youtu.be/U3aRXg3ejks)
 * 如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发 治愈强迫症：[教程](https://youtu.be/c4HSZzTM7G0)             
 * 单线or双线，最简单的iptv内网融合教程，需要懂一点基础：[教程](https://github.com/luckyyyyy/blog/issues/44)         
-* 小提示：使用负载均衡同样可以实现故障切换的功能          
+* 小提示：使用负载均衡同样可以实现故障切换的功能         
+* passwall的负载均衡：[教程](https://youtu.be/TRdOfTykgRw)          
 * passwall的恢复默认配置方法：地址栏输入例：                      
   http://192.168.1.1/cgi-bin/luci/admin/vpn/passwall/reset_config        
   passwall的隐藏菜单方法：地址栏输入例：                 
