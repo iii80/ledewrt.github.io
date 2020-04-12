@@ -1,5 +1,6 @@
-此页面最近一次更新时间：2020.03.29        
-【passwall目前支持：socks5、ss、ssr、v2ray、v2ray负载均衡、v2ray分流、brook、trojan】          
+此页面最近一次更新时间：2020.04.12              
+【passwall目前支持：socks5、ss、ssr、v2ray、v2ray负载均衡、v2ray分流、brook、trojan】               
+【luci18.06和luci19.07都由Lienol魔改过，从点击保存应用到执行完毕可爬墙的速度极快，谁用谁知道】                            
 * passwall固件主频道（源码更新内容、x86_64架构设备的passwall固件）：[主频道](https://t.me/passwall)        
 * passwall固件分频道（其他架构设备的passwall固件）：[分频道](./sub.md)             
 * passwall固件教程：[教程](./tips.md)      
