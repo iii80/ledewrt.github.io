@@ -7,4 +7,3 @@
 
 * WIFI信号觉得不好？：首先请关闭使用5G优选（智能选频），然后2.4G信号锁死在20MHz，5G信号锁死在你的手机等设备支持到的最高的即可（最近160MHz的也都开始普及了...），这样你离天线远时手动连2.4G信号，离得近时手动连5G信号                  
 * 基于Chromium内核的浏览器建议关闭QUIC：[教程](https://www.echoteen.com/turnoff-quic.html)               
-* 修改win10的tcp配置参数来提升打开youtube的速度：[教程](https://bincode.cc/ssr-win10-tcp-youtube-speed/)            
