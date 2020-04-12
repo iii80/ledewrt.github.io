@@ -1,11 +1,10 @@
 此页面最近一次更新时间：2020.03.28        
 [返回到首页](https://passwallopenwrt.github.io/website/)        
 
-passwall有问题？请更新到最新版本再测试是否复现。           
-github反馈issue问题时，请附带passwall日志，并确认你当前使用的passwall是最新版本，否则直接无视close。           
-任何玩DNS玩出事，设置不当导致的你认为不好用，觉得垃圾的，请不要使用！       
-
-* luci18.06和luci19.07都由Lienol魔改过，点击到执行完毕的速度极快，谁用谁知道                 
+* 喜欢保留配置升级和喜欢单独更新passwall插件，遇到兼容bug却又不会重置固件、重置passwall插件的，憨憨，请依次尝试：重启、重置passwal插件、重置整个固件(重置passwall插件方法在passwall界面有写，整个固件重置的按钮和上传升级固件的按钮在同一界面)以上都试过后还有问题的，那就极大可能是bug              
+* passwall有问题？请更新到最新版本再测试是否复现                 
+* github反馈issue问题时，请附带passwall日志，并确认你当前使用的passwall是最新版本，否则直接无视close               
+* 任何玩DNS玩出事，设置不当导致的你认为不好用，觉得垃圾的，请不要使用                            
 
 ① [https://github.com/Lienol/openwrt/tree/dev-19.07](https://github.com/Lienol/openwrt/tree/dev-19.07)                     
 1907分支。基于官方openwrt的fork，搭配使用luci18.06-Lienol魔改，默认分支。        
