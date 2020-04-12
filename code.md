@@ -8,15 +8,15 @@ github反馈issue问题时，请附带passwall日志，并确认你当前使用�
 * luci18.06和luci19.07都由Lienol魔改过，点击到执行完毕的速度极快，谁用谁知道                 
 
 ① [https://github.com/Lienol/openwrt/tree/dev-19.07](https://github.com/Lienol/openwrt/tree/dev-19.07)                     
-基于官方openwrt的fork，搭配使用luci18.06-Lienol魔改，默认分支。        
+1907分支。基于官方openwrt的fork，搭配使用luci18.06-Lienol魔改，默认分支。        
 支持官方openwrt支持的型号设备。            
 支持勾选主要由Lienol维护的passwall+一些其他开发者的伟大的开源luci-app。                
 ② [https://github.com/Lienol/openwrt/tree/dev-master](https://github.com/Lienol/openwrt/tree/dev-master)               
-基于官方openwrt的fork，搭配使用luci19.07-Lienol魔改，时机成熟时再取代作为默认分支。               
+master分支。基于官方openwrt的fork，搭配使用luci19.07-Lienol魔改，时机成熟时再取代作为默认分支。               
 支持官方openwrt支持的型号设备。                  
 支持勾选主要由Lienol维护的passwall+一些其他开发者的伟大的开源luci-app。                  
 ③ [https://github.com/Lienol/openwrt/tree/dev-lean-lede](https://github.com/Lienol/openwrt/tree/dev-lean-lede)             
-基于coolsnowwolf冷雪狼（Lean/大雕）lede的fork。                      
+大雕分支。基于coolsnowwolf冷雪狼（Lean/大雕）lede的fork。                      
 额外支持主要由伟大的Lean特别驱动和优化的一些硬路由设备。                  
 支持勾选主要由Lienol维护的passwall+一些其他开发者的伟大的开源luci-app。     
        
