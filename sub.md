@@ -15,7 +15,7 @@
 【r1sH3】:       
 [https://t.me/joinchat/AAAAAEHKg_vGH_R2a26V7A](https://t.me/joinchat/AAAAAEHKg_vGH_R2a26V7A)                        
 【n1】：               
-[https://t.me/n1passwall](https://t.me/n1passwall)          
+[https://t.me/joinchat/AAAAAFLp5M-PjgwW3u8yEA](https://t.me/joinchat/AAAAAFLp5M-PjgwW3u8yEA)          
 【neo2】：      
 [https://t.me/neo2passwall](https://t.me/neo2passwall)     
 【树莓派4b】:              
