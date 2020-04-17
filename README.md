@@ -9,6 +9,13 @@
 * [LEDE的前进方向](./LEDE的前进方向.md) 
 
 -------------------------------------------------------------------
+下载地址：
+LEDE_E系列（openwrt18.06系列，源自CTCGFW's Team）：地址（https://lede.lanzous.com/b00tcg9sf）
+LEDE_N系列（openwrt19.07系列，源自LIENOL）：地址（https://lede.lanzous.com/b00tcg9gd）
+LEDE_M系列（openwrt开发版系列，源自LEAN）：地址（https://lede.lanzous.com/b00tgfpvc）
+
+
+-------------------------------------------------------------------
 * [passwall固件主频道](https://t.me/ledewrt)（源码更新内容总结、x86_64架构设备的passwall固件）               
 * [passwall固件分频道](./sub.md)（其他架构设备的passwall固件）              
 * [passwall固件源码](./code.md)            
