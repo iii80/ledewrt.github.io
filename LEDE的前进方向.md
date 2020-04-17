@@ -1,3 +1,5 @@
+[返回到首页](https://ledewrt.github.io/)   
+
 简言之：LEDE=Openwrt+，即多应用的OpenWrt平台。
 
 目前国内OpenWrt+的固件作者比较多，其中Lean，lienol，leojo，jerrykuku，KFERMercer，ameykyl，wulishui等等，都是基于Openwrt+特色应用的。目前LEDE初步是基于Lean的openwrt。即LEDE=Lean's OpenWrt source
