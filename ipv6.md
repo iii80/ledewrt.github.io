@@ -1,4 +1,3 @@
-此页面最近一次更新时间：2020.03.19                   
 [返回到首页](https://ledewrt.github.io)                  
 [![](https://pic.downk.cc/item/5e6ee25ee83c3a1e3a3bddcc.png)](https://pic.downk.cc/item/5e6ee25ee83c3a1e3a3bddcc.png)          
 * DHCP/DNS默认过滤了ipv6的解析，如果你会使用ipv6需要使用ipv6，请注意关闭这里的禁止解析                 
