@@ -6,9 +6,10 @@
 * 基于vuejs脚本语言、焕新UI设计的第二代passwall由Lienol等大神们在私有库闭源开发中，看情况和心情，只有极小可能性以后某天开源，不要过分期待 
 
 
-* [历史的LEDE与Openwrt的关系](./历史的LEDE与Openwrt的关系.md) 
+
 【passwall目前支持：socks5、ss、ssr、v2ray、v2ray负载均衡、v2ray分流、brook、trojan】               
-【luci18.06和luci19.07都由Lienol魔改过，从点击保存应用到执行完毕可爬墙的速度极快，谁用谁知道】                             
+【luci18.06和luci19.07都由Lienol魔改过，从点击保存应用到执行完毕可爬墙的速度极快，谁用谁知道】   
+* [历史的LEDE与Openwrt的关系](./历史的LEDE与Openwrt的关系.md) 
 * [passwall固件主频道](https://t.me/ledewrt)（源码更新内容总结、x86_64架构设备的passwall固件）               
 * [passwall固件分频道](./sub.md)（其他架构设备的passwall固件）              
 * [passwall固件源码](./code.md)            
