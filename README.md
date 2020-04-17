@@ -11,7 +11,7 @@
 * [passwall固件分频道](./sub.md)（其他架构设备的passwall固件）              
 * [passwall固件源码](./code.md)            
 * [passwall固件教程](./tips.md)               
-* [工具](https://ledewrt.github.io/tool/)               
+* [工具](https://github.com/ledewrt/tool/)               
 * [周边教程](./others.md)                   
 * [机场](./air.md)               
 
