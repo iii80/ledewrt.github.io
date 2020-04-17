@@ -1,3 +1,5 @@
+[返回到首页](https://ledewrt.github.io/)   
+
 对于家用 WiFi 路由器和接入点来说，OpenWrt 项目可能是最广为人知的 Linux 发行版；在 12 年以前，它产自现在有名的 Linksys WRT54G 路由器的源代码。（2016 年）五月初，当一群 OpenWrt 核心开发者 宣布 他们将开始着手 OpenWrt 的一个副产品 （或者，可能算一个分支）叫 Linux 嵌入开发环境 （LEDE）时，OpenWrt 用户社区陷入一片巨大的混乱中。为什么产生分裂对公众来说并不明朗，而且 LEDE 宣言惊到了一些其他 OpenWrt 开发者也暗示这团队的内部矛盾。
 
 LEDE 宣言被 Jo-Philipp Wich 于五月三日发往所有 OpenWrt 开发者列表和新 LEDE 开发者列表。它将 LEDE 描述为“OpenWrt 社区的一次重启” 和 “OpenWrt 项目的一个副产品” ，希望产生一个 “注重透明性、合作和权利分散”的 Linux 嵌入式开发社区。
