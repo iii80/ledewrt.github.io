@@ -1,3 +1,5 @@
+[返回到首页](https://ledewrt.github.io/)   
+
 OPENWRT与LEDE项目目前已经正式宣布合并
 LEDE的声明原文如下：
 https://lede-project.org/#announcing_the_openwrtlede_merge
