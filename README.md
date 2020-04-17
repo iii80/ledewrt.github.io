@@ -1,4 +1,5 @@
 我唯有全心全意帮助别人，我才能获得他们无条件的信任和支持，建立坚若磐石的人际关系，走上人生巅峰。  ——约翰·麦克斯维尔 
+我只是根据需求编译的各位大神的固件，如果有bug，力所能及解决，解决不行的请到大神的源码处提交bug。——LEDE作者
 
 -------------------------------------------------------------------
 * [历史的LEDE与Openwrt的关系](./历史的LEDE与Openwrt的关系.md) 
@@ -10,9 +11,9 @@
 
 -------------------------------------------------------------------
 下载地址：
-* [LEDE_E系列](https://lede.lanzous.com/b00tcg9sf) （openwrt18.06系列，源自CTCGFW's Team）
-* [LEDE_N系列](https://lede.lanzous.com/b00tcg9gd) （openwrt19.07系列，源自LIENOL）
-* [LEDE_M系列](https://lede.lanzous.com/b00tgfpvc) （openwrt开发版系列，源自LEAN）
+* [LEDE_E系列](https://lede.lanzous.com/b00tcg9sf) 备注：openwrt18.06系列，源自[CTCGFW's Team的openwrt](https://github.com/project-openwrt/openwrt)
+* [LEDE_N系列](https://lede.lanzous.com/b00tcg9gd) 备注：openwrt19.07系列，源自[Lienol的openwrt](https://github.com/Lienol/openwrt)
+* [LEDE_M系列](https://lede.lanzous.com/b00tgfpvc) 备注：openwrt开发版系列，源自[Lean的openwrt](https://github.com/coolsnowwolf/lede)
 
 
 -------------------------------------------------------------------
