@@ -1,3 +1,5 @@
+[返回到首页](https://ledewrt.github.io/)   
+
 OpenWrt 可以说是世界上最出名的家用 WiFi 路由器 Linux 发行版，是由以前名不经传的 Linksys WRT54G 路由催生的一个产品，已经 12 年多了。在 2016 年 5 月初，OpenWrt 用户社区宣布了另一个 OpenWrt：Linux Embedded Development Environment (LEDE)。官方解释说，LEDE 是 OpenWrt 的一个分支，或者说是副产品，该项目主要关注透明性，协作和分权。
 
 
