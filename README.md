@@ -10,9 +10,9 @@
 
 -------------------------------------------------------------------
 下载地址：
-[LEDE_E系列（openwrt18.06系列，源自CTCGFW's Team）]（https://lede.lanzous.com/b00tcg9sf）
-[LEDE_N系列（openwrt19.07系列，源自LIENOL）]（https://lede.lanzous.com/b00tcg9gd）
-[LEDE_M系列（openwrt开发版系列，源自LEAN）]（https://lede.lanzous.com/b00tgfpvc）
+* [LEDE_E系列]（https://lede.lanzous.com/b00tcg9sf) （openwrt18.06系列，源自CTCGFW's Team）
+* [LEDE_N系列]（https://lede.lanzous.com/b00tcg9gd） （openwrt19.07系列，源自LIENOL）
+* [LEDE_M系列]（https://lede.lanzous.com/b00tgfpvc） （openwrt开发版系列，源自LEAN）
 
 
 -------------------------------------------------------------------
