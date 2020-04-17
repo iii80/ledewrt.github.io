@@ -9,7 +9,7 @@ LEDE心声
 关于LEDE
 
 * [历史的LEDE与Openwrt的关系](./历史的LEDE与Openwrt的关系.md) 
-* [LEDE和OpenWrt分裂之争](./LEDE和OpenWrt 分裂之争.md) 
+* [LEDE和OpenWrt分裂之争](./LEDE和OpenWrt分裂之争.md) 
 * [OPENWRT与LEDE项目目前已经正式宣布合并](./OPENWRT与LEDE项目目前已经正式宣布合并.md) 
 * ["我为人人，人人为我"的LEDE项目](./"我为人人,人人为我"的LEDE项目.md) 
 * [LEDE免责声明](./LEDE免责声明.md) 
