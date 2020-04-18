@@ -8,9 +8,7 @@ LEDE心声
 -------------------------------------------------------------------
 LEDE特点
 
-即Lite+Easy+Depend+Enjoy简称LEDE，阐述如下：
-
-Lite—精练。  Easy—易用。  Depend—可靠。   Enjoy—舒畅。 
+Lite—精练， Easy—易用， Depend—可靠， Enjoy—舒畅。 简称LEDE。
 
 希望你用了LEDE后，网络畅通了，心情舒服了.....
 
