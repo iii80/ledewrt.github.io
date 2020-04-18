@@ -10,7 +10,7 @@ LEDE特点
 
 即Lite+Easy+Depend+Enjoy简称LEDE，阐述如下：
 
-1、Lite—精练。   2、Easy—易用。  3、Depend—可靠。    4、Enjoy—舒畅。 
+Lite—精练。  Easy—易用。  Depend—可靠。   Enjoy—舒畅。 
 
 希望你用了LEDE后，网络畅通了，心情舒服了.....
 
