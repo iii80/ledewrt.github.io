@@ -25,8 +25,8 @@ Lite—精练， Easy—易用， Depend—可靠， Enjoy—舒畅。 简称LED
 下载地址：
 LEDEWRT目前只提供两个系列：18.06稳定系列以及19.07的snpshot即openwrt的开发板最新系列。
 
-* [LEDE_1806稳定版](https://lede.lanzous.com/b00tcg9sf) 源自[Ameykyl的openwrt](https://github.com/Ameykyl)
-* [LEDE_1907最新版](https://lede.lanzous.com/b00tcg9gd) 源自[官方的openwrt的snapshot](https://github.com/openwrt)
+* [LEDE_1806稳定版](https://lede.lanzous.com/b00tcg9sf) 源自[Ameykyl的openwrt18.06](https://github.com/Ameykyl)
+* [LEDE_1907最新版](https://lede.lanzous.com/b00tcg9gd) 源自[garypang13的openwrt的snapshot](https://github.com/garypang13)
 
 
 -------------------------------------------------------------------
