@@ -24,9 +24,9 @@ Lite—精练， Easy—易用， Depend—可靠， Enjoy—舒畅。 简称LED
 -------------------------------------------------------------------
 下载地址：
 
-* [LEDE_E系列](https://lede.lanzous.com/b00tcg9sf) 备注：openwrt18.06系列，源自[CTCGFW's Team的openwrt](https://github.com/project-openwrt/openwrt)
-* [LEDE_N系列](https://lede.lanzous.com/b00tcg9gd) 备注：openwrt19.07系列，源自[Lienol的openwrt](https://github.com/Lienol/openwrt)
-* [LEDE_M系列](https://lede.lanzous.com/b00tgfpvc) 备注：openwrt开发版系列，源自[Lean的openwrt](https://github.com/coolsnowwolf/lede)
+* [LEDE_1806稳定版](https://lede.lanzous.com/b00tcg9sf) 源自[Ameykyl的openwrt](https://github.com/Ameykyl)
+* [LEDE_1907最新版](https://lede.lanzous.com/b00tcg9gd) 源自[官方的openwrt的snapshot](https://github.com/openwrt)
+
 
 -------------------------------------------------------------------
   使用教程 
