@@ -22,7 +22,7 @@ Lite—精练， Easy—易用， Depend—可靠， Enjoy—舒畅。组合起�
 
 * ["我为人人，人人为我"的LEDE项目](./"我为人人,人人为我"的LEDE项目.md) 
 * [LEDE免责声明](./LEDE免责声明.md) 
-以下是老的LEDE与OpenWrt相关渊源：
+* 以下是老的LEDE与OpenWrt相关渊源：
 * [历史的LEDE与Openwrt的关系](./历史的LEDE与Openwrt的关系.md) 
 * [LEDE和OpenWrt分裂之争](./LEDE和OpenWrt分裂之争.md) 
 * [OPENWRT与LEDE项目目前已经正式宣布合并](./OPENWRT与LEDE项目目前已经正式宣布合并.md) 
