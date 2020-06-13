@@ -27,7 +27,7 @@ LEDEWRT目前只提供3个系列：
 
 * 坚如磐的 [LEDE_1806稳定版E系列](https://lede.lanzous.com/b00tcg9sf)  源自[CTCGFW团队的openwrt_18.06系列](https://github.com/project-openwrt/openwrt)
 * 中如柱的[LEDE_1907稳定版N系列](https://lede.lanzous.com/b00tcg9gd)  源自[Lienol的openwrt_19.07系列](https://github.com/lienol)
-* 新如处的 [LEDE_Snapshot开发版精简D系列](https://lede.lanzous.com/b00tkjtjc)  源自[garypang的openwrt_snapshot系列](https://github.com/garypang13)
+* 新如处的 [LEDE_Snapshot开发版D系列](https://lede.lanzous.com/b00tkjtjc)  源自[garypang的openwrt_snapshot系列](https://github.com/garypang13)
 
 
 -------------------------------------------------------------------
